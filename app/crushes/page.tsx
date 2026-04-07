@@ -22,7 +22,7 @@ export default function Crushes() {
 
   const openChat = (id) => {
     if (id === "create") {
-      alert("Create Your Own Crush - Coming soon!");
+      alert("Create Your Own Crush - Coming soon! We can add this feature next.");
       return;
     }
     window.location.href = `/chat/${id}`;
