@@ -16,7 +16,7 @@ export default function Home() {
         CrushGF.ai
       </h1>
       <p style={{ fontSize: '2rem', marginBottom: '4rem' }}>
-        Your private AI crush is waiting
+        Your AI crush is waiting
       </p>
 
       <Link href="/crushes">
