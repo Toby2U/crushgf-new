@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'CrushGF.ai',
-  description: 'Your AI Crush Experience',
+  description: 'Your AI Crush',
 };
 
 export default function RootLayout({
